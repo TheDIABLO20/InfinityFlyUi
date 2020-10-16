@@ -1,0 +1,9 @@
+name: InfinityFly
+version: 1.0
+main: Fly\Main
+api: 3.0.0, 4.0.0
+author: TheDIABLO20
+
+commands:
+fly:
+description: "InfinityFly Gui By: TheDIABLO20" 
